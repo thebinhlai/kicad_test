@@ -305,4 +305,8 @@
     )
   )
 
+  (segment (start 175.9885 72.36) (end 176.56 72.36) (width 0.2) (layer "F.Cu") (net 0) (tstamp 738c73ca-416f-4cdc-b135-180d4d696484))
+  (segment (start 177.8 71.12) (end 180.34 71.12) (width 0.2) (layer "F.Cu") (net 0) (tstamp 7590e24b-577c-4fcd-9e1f-ab45b189df19))
+  (segment (start 176.56 72.36) (end 177.8 71.12) (width 0.2) (layer "F.Cu") (net 0) (tstamp d32ff0d3-6db2-4544-ab69-6c0b14790da2))
+
 )
